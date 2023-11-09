@@ -39,7 +39,7 @@ Here are all the designs made in this repo:
 
 **7. Full Subtractor**
 
-    ![full subtractor](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/2e2a92c5-6723-4225-bd44-78c4f0c456ce)
+   ![full subtractor](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/2e2a92c5-6723-4225-bd44-78c4f0c456ce)
 
 
 **8. Half Adder**
@@ -49,9 +49,9 @@ Here are all the designs made in this repo:
 
 **9. AND Gate**
 
-    ![and gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/144a8e50-076b-4e3a-9097-bb16a0106047)
+   ![and gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/144a8e50-076b-4e3a-9097-bb16a0106047)
 
 
 **10. NOT Gate**
 
-    ![not gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/c06b4957-a889-43c7-917f-e2b1d5224c41)
+   ![not gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/c06b4957-a889-43c7-917f-e2b1d5224c41)
