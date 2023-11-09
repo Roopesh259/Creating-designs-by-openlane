@@ -6,54 +6,32 @@ To execute these circuit designs within a Google Colab environment, you will fir
 The repository hosts a collection of different circuit designs, showcasing the capabilities of OpenLane and the SKY130 PDK in creating integrated circuits for various applications.
 
 Here are all the designs made in this repo:
+**1. Half Subtractor
+![half subtractor](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/d1e2298b-3614-4898-a411-243428b1286c)
 
-**1. 4x1 Multiplexer**
+**2. NAND Gate
+![nand gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/4b61faeb-b89c-417a-81ea-5bca165ecd2d)
 
-   ![4x1_multiplexer](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/3aa81fbd-6a9a-4f79-aafc-860353b4eaa9)
+**3. OR Gate
+![or gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/1a9287cb-8537-4d31-8b8a-5b8f1e8e5e06)
 
-**2. 4 Bit Ripple Carry Adder**
+**4. 4 Bit Ripple Carry Adder
+![4 bit ripple carry adder](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/c0b052e0-7874-41a8-a2f4-394713bddc09)
 
-   ![4-bit-ripple-carry-adder](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/80ffa316-9cf3-4e2e-95f8-c340fdb2b420)
+**5. XOR Gate
+![xor gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/41598b4a-48f2-4afe-8c96-7fe7336c2240)
 
-**3. Half Adder**
+**6. 4x1 Multiplexer
+![4 x 1 Multiplexer](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/17591d88-5a5e-4ba7-8fff-c11f5cd25aa3)
 
-   ![half_adder](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/c6a7955e-d620-4ec8-8468-569760032f29)
+**7. Full Subtractor
+![full subtractor](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/2e2a92c5-6723-4225-bd44-78c4f0c456ce)
 
-**4. SR Latch**
+**8. Half Adder
+![half adder](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/abb98856-2f54-4469-a429-a251c054a11c)
 
-   ![sr_latch](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/46a0832e-f1ea-412a-afd7-fe4d8e5ed09f)
+**9. AND Gate
+![and gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/144a8e50-076b-4e3a-9097-bb16a0106047)
 
-**5. Half Subtractor**
-
-   ![half_subtractor](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/6efc7d87-a0d0-489c-b8cc-a0a191edd613)
-
-**6. Full Subtractor**
-
-   ![full_subtractor](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/2566e6da-fa3d-469d-9e78-6377caf46c40)
-
-**7. AND Gate**
-
-   ![and_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/71aac39a-d086-4422-8af4-dfb08b54e307)
-
-**8. OR Gate**
-
-   ![or_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/aa2e9a86-2850-47a0-ab21-bba361186d83)
-
-**9. NOT Gate**
-
-   ![not_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/cc2b0294-628a-4806-bf41-3f0bceba94df)
-
-
-**10. NAND Gate**
-
-![nand_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/5c8e2c74-9e50-4009-a321-a1793a19107e)
-
-
-**11. XOR Gate**
-
-![xor_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/f51969d6-e389-4fc9-a9a8-8150300ae6f3)
-
-
-**12. JK Flip Flop**
-
-   ![jkflipflop](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/20a3662d-9cc8-42fd-a417-159a9f3190de)
+**10. NOT Gate
+![not gate](https://github.com/Roopesh259/Creating-designs-by-openlane/assets/116000825/c06b4957-a889-43c7-917f-e2b1d5224c41)
